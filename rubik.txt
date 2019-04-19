@@ -1,0 +1,34 @@
+r: right 
+u: up
+f: front
+b: back
+l:left
+d: down
+
+
+step 1: rd ul fl ur    
+Step 2: rd dl ru dr
+step 3:
+
+when move right:
+
+ul ru ur rd ur fl ul fr  
+
+when move left:
+
+ur lu ul ld ul fr ur fl
+
+
+step 4;
+
+L shape:
+fr ul ru ur rd fl
+
+Straight:
+
+fr ru ul rd ur fl
+
+Step 5:
+
+ru ul rd ul ru ul ul rd
+
