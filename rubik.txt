@@ -32,3 +32,8 @@ Step 5:
 
 ru ul rd ul ru ul ul rd
 
+
+last step:
+
+fr fr ul ld rd fr fr lu ru ul fr fr 
+fr fr ur ld rd fr fr lu ru ur fr fr
