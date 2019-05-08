@@ -40,5 +40,5 @@ rd fr rd bl bl ru fl rd bl bl ru ru ur
 
 last step:
 
-fr fr ul ld rd fr fr lu ru ul fr fr 
-fr fr ur ld rd fr fr lu ru ur fr fr
+Clock wise:  fr fr ul ld rd fr fr lu ru ul fr fr 
+Anti:        fr fr ur ld rd fr fr lu ru ur fr fr
